@@ -10,6 +10,7 @@
 - Clone this repository:
   ```bash
   git clone https://github.com/agb5003/threadstone.git
+  cd threadstone
   ```
 - Run premake and compile:
   ```bash
