@@ -1,0 +1,13 @@
+bin/
+libs/
+obj/
+
+include/GL
+include/SDL3
+include/SDL3_image
+include/glm
+
+Makefile
+*.make
+
+compile_commands
